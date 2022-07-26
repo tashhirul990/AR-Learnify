@@ -1,4 +1,3 @@
-# Learnfiy [CLICK TO SEE](https://roaring-sprite-7d008d.netlify.app/)
 ## Augumented Reality APP (learnify)
 
 
